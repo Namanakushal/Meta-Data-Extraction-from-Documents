@@ -47,9 +47,4 @@ Three approaches were evaluated for building the NER model:
     * **Improving Date Annotation:** More accurate date entity recognition could enhance Approach 3's performance.
     * **Exploring Advanced Techniques:** Investigating other NLP techniques like Bidirectional Encoder Representations from Transformers (BERT) could potentially lead to better results.
 
-**Next Steps**
 
-* Based on these findings, it's recommended to refine Approach 2 by:
-    * Focusing on accurate date entity recognition for Approach 3.
-    * Investigating advanced NLP techniques for potential improvements.
-* It's also crucial to evaluate the model's performance on a larger dataset to confirm its generalizability.
