@@ -34,13 +34,8 @@ Three approaches were evaluated for building the NER model:
 * While recall (the proportion of relevant entities identified) on the pseudo-annotated data decreased compared to Approach 1, predictions on unseen validation data improved.
 * This suggests the model learned from the broader context of the agreements.
 
-**Approach 3: Manually Annotated Training Data**
 
-* This approach involved manually labeling entities in training and validation documents using the Spacy annotator tool.
-* Fine-tuning the Spacy NER model on this data did not yield significant improvements in recall or prediction accuracy.
-* This could be due to challenges in manual annotation of complex legal documents.
-
-**4. Conclusion**
+**3. Conclusion**
 
 * Approach 2, using a pre-trained model with pseudo-annotated data, emerged as the most promising approach.
 * Further improvement might be possible by:
