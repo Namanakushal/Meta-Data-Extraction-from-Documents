@@ -35,7 +35,7 @@ Three approaches were evaluated for building the NER model:
 * This suggests the model learned from the broader context of the agreements.
 
 
-**3. Conclusion**
+**4. Conclusion**
 
 * Approach 2, using a pre-trained model with pseudo-annotated data, emerged as the most promising approach.
 * Further improvement might be possible by:
