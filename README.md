@@ -38,8 +38,6 @@ Three approaches were evaluated for building the NER model:
 **4. Conclusion**
 
 * Approach 2, using a pre-trained model with pseudo-annotated data, emerged as the most promising approach.
-* Further improvement might be possible by:
-    * **Improving Date Annotation:** More accurate date entity recognition could enhance Approach 3's performance.
-    * **Exploring Advanced Techniques:** Investigating other NLP techniques like Bidirectional Encoder Representations from Transformers (BERT) could potentially lead to better results.
+
 
 
